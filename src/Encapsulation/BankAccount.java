@@ -1,5 +1,6 @@
 package Encapsulation;
 
+
 public class BankAccount {
     private double balance;         // Only accessed by Class methods and by objects directly
     protected String accountNumber;
